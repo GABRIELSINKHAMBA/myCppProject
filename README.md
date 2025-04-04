@@ -1,0 +1,2 @@
+# myCppProject
+exercises of CPP
