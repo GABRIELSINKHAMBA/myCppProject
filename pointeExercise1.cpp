@@ -10,7 +10,7 @@ int main(){
 
     /*through the user input, ass a value to the dynamically allocated 
     memory*/
-    cout <<"Enter integer  number"<<endl;
+    cout <<"Enter integer  number\n";
     cin>> *IntegerNumber;
     cout <<"Enter the string variable"<<endl;
     cin >> *stringVariable;
